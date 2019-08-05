@@ -4,6 +4,8 @@ Note:
 
 ```
 http://webdevchecklist.com
+https://www.w3.org/TR/WCAG21/
+https://www.wuhcag.com/non-text-content/
 Write the code properly formatted in terms of white space and syntax conventions
 ```
 
@@ -76,7 +78,14 @@ _Semantic HTML Tags_
 > 3. Video is accompanied by a transcript and closed captioning
 > 4. Code validates against WCAG priority level 1 and 2
 > 5. Events and styles applied to :hover are also applied to :focus
-> 6. Tabindex order is logical and intuitive
+> 6. Tab index order is logical and intuitive
 > 7. Are appropriate ARIA landmark roles being used? Is there one "main", "banner", "contentinfo", and 3 or less "navigation" roles?
+> 8. Color contrast Accessibility
 
----
+#Additional Info
+
+<a href="https://webaim.org/standards/wcag/checklist">WebAIM’s WCAG checklist</a>
+<br>for websites and simple applications; AAA criteria are included in this checklist but not required.
+
+<a href="https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1&currentsidebar=%23col_overview&levels=aaa">Official W3C checklist</a>
+<br>for more complex web-based applications and non-HTML content; filterable by level, technology, etc.
